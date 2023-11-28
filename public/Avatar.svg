@@ -1,0 +1,12 @@
+<svg width="41" height="40" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Avatar">
+<rect x="0.315674" width="40" height="40" rx="20" fill="url(#paint0_linear_72_2980)"/>
+<path id="Vector" d="M35.3157 20C35.3157 32.3164 32.6321 35 20.3157 35C7.99931 35 5.31567 32.3165 5.31567 20C5.31567 7.68358 7.99928 5 20.3157 5C32.632 5 35.3157 7.68362 35.3157 20ZM20.3157 5.0085C20.232 19.8486 20.1642 19.9164 5.32421 20C20.1642 20.0836 20.232 20.1514 20.3157 34.9915C20.3993 20.1514 20.4671 20.0836 35.3071 20C20.4671 19.9164 20.3993 19.8486 20.3157 5.0085Z" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_72_2980" x1="5.94067" y1="5.625" x2="35.3157" y2="35" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5D69DC"/>
+<stop offset="1" stop-color="#F7B13C"/>
+</linearGradient>
+</defs>
+</svg>
